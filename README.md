@@ -7,7 +7,7 @@ Deployment of a web application that will randomly generate an 8-128 character p
 
 ## How do i use it?
 
-1. Visit the deployed link [here](https://)
+1. Visit the deployed link [here](https://tegrty.github.io/password-creation-device/)
 2. Click the big red button that reads "Generate Password"
 3. Follow the prompts to your liking ("ok" for yes "cancel" for no)
 4. Copy and paste your new password
